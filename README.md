@@ -1,5 +1,8 @@
 # 📱 Phone Store — React
 
+LIVE OVERVIEW FOR THE PROJECT
+THE LINK ===> https://reda-ghost.github.io/react-phone-app/
+
 A simple phone store application built with **React** as a practice project for managing application state with `useReducer` and calculating derived data with `useMemo`.
 
 ## 🚀 Features
